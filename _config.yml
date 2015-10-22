@@ -1,0 +1,23 @@
+name: GOD
+favicon: null
+layout_spectrum: 0.8364762901328504
+typography_spectrum: 0.6878692905884236
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.13661707215942442
+  lightness: 0.2926242940593511
+  saturation: 0.7234282766003162
+  rhythmicContrast: 0.27191505255177617
+purpose: []
